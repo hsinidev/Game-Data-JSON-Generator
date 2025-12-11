@@ -1,6 +1,6 @@
 # Game Data JSON Generator & Automation Tool
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-blue?style=for-the-badge)](https://doodax.com)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-doodax.com-blue?style=for-the-badge)](https://doodax.com/tools/game-data-json-generator/index.html)
 
 A professional, high-performance web application designed for game portal developers, SEO specialists, and webmasters. This tool leverages the power of the Gemini API to automate the extraction and generation of structured JSON data from raw game URLs, significantly reducing the workflow time for content management.
 
