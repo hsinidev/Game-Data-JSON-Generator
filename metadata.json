@@ -1,0 +1,5 @@
+{
+  "name": "Game Data JSON Generator",
+  "description": "An SEO-friendly tool with an animated UI to process a list of raw game URLs into a structured JSON format, inferring game data like name, slug, and icon URL. Includes informational pages.",
+  "requestFramePermissions": []
+}
