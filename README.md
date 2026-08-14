@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Game Data Json Generator
-### *High-Performance Interactive Web Experience & Canvas Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Game%20Data%20Json%20Generator&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Game Data Json Generator Header Banner" />
+
+  <h1>🚀 Game Data Json Generator</h1>
+  <p><em>High-Performance Interactive Web Experience & Canvas Engine</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge" alt="Language: TypeScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge" alt="Framework: WebGL / HTML5 Canvas" /></a>
+    <a href="https://github.com/hsinidev/Game-Data-JSON-Generator"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Game Data Json Generator** delivers a fast, responsive, and cross-platform browser experience built with **TypeScript** and hardware-accelerated canvas rendering.
@@ -25,6 +29,7 @@
 - **Local Storage State**: Automatic session persistence and state restoration.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `TypeScript`
@@ -32,66 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Game Data JSON Generator & Automation Tool
-
-
-
-## 🚀 Features
-
-*   **AI-Powered Extraction**: Instantly infers game titles, descriptions, and categories from simple iframe URLs.
-*   **Structured JSON Output**: Generates clean, standard JSON arrays ready for database import or static site generation.
-*   **Smart Slug Generation**: automatically creates SEO-friendly URL slugs.
-*   **Icon Path Prediction**: Generates standardized icon paths based on configurable patterns.
-*   **Iframe Generator**: Built-in tool to wrap raw URLs in responsive HTML iframes with download capability.
-*   **SEO Article Generation**: Capable of generating full SEO descriptions and articles for games.
-*   **Privacy First**: Client-side operation ensures your data lists remain private.
-
-## 📂 Project Structure
-
-```bash
-/
-├── components/          # React UI Components
-│   ├── IframeGenerator.tsx
-│   ├── Icon.tsx
-│   ├── JsonGenerator.tsx
-│   ├── Modal.tsx
-│   └── SeoContent.tsx   # Long-form SEO article component
-├── public/              # Static assets
-│   ├── favicon.svg
-│   ├── robots.txt
-│   └── sitemap.xml
-├── App.tsx              # Main Application Entry
-├── index.html           # HTML entry with Galaxy Background
-├── index.tsx            # React Mount Point
-├── metadata.json        # Permissions configuration
-├── types.ts             # TypeScript interfaces
-├── utils.ts             # API logic and helper functions
-└── README.md            # Documentation
-```
-
-## 🛠 Tech Stack
-
-*   **Frontend**: React 19 (TypeScript)
-*   **AI Integration**: Google GenAI SDK (Gemini 2.5)
-*   **Styling**: Tailwind CSS with custom animations
-*   **Build**: Vite
-
-## 🔗 Live Demo
-
-Access the live tool here: [**doodax.com**](https://doodax.com)
-
-
-**HSINI MOHAMED**
-*   **GitHub**: [hsinidev](https://github.com/hsinidev)
-*   **Website**: [doodax.com](https://doodax.com)
-*   **Contact**: hsini.web@gmail.com
-
----
-*Created for educational and development purposes.*
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
